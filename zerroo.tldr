@@ -1,0 +1,274 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 4,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 25,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.asset.image": 5,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 2,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 2,
+			"com.tldraw.shape.geo": 9,
+			"com.tldraw.shape.note": 8,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 0,
+			"com.tldraw.shape.arrow": 5,
+			"com.tldraw.shape.highlight": 1,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 4,
+			"com.tldraw.shape.video": 2,
+			"com.tldraw.binding.arrow": 0
+		}
+	},
+	"records": [
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"x": 69.00000000000011,
+			"y": 127,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:49GodEBoMbOv4uJk4wSwM",
+			"type": "geo",
+			"props": {
+				"w": 975.9999999999999,
+				"h": 450,
+				"geo": "rectangle",
+				"color": "red",
+				"labelColor": "black",
+				"fill": "solid",
+				"dash": "draw",
+				"size": "m",
+				"font": "sans",
+				"text": "",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"growY": 0,
+				"url": "",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a1",
+			"typeName": "shape"
+		},
+		{
+			"x": 423,
+			"y": 244.8515625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:f2VsMtZkUt0c6zTuoNt2Z",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 334,
+				"text": "“Create your own sunshine”",
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 0.9116564299054624
+			},
+			"parentId": "page:page",
+			"index": "a39Sx",
+			"typeName": "shape"
+		},
+		{
+			"x": 338,
+			"y": 281.8515625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:BbPe4WvjAgj-Prjop2lvw",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "s",
+				"w": 456,
+				"text": "",
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a4Bzt",
+			"typeName": "shape"
+		},
+		{
+			"x": 279,
+			"y": 278.8515625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:yOhOlUV7gDk-Y_k19xZdD",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "s",
+				"w": 1,
+				"text": "",
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a52MO",
+			"typeName": "shape"
+		},
+		{
+			"x": 305,
+			"y": 312.8515625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ddCAMR0EwxRb7XYTd0sCw",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "s",
+				"w": 206.203125,
+				"text": "* wedding album\n* baby shower\n* puberty function\n* birthday function",
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a6693",
+			"typeName": "shape"
+		},
+		{
+			"id": "pointer:pointer",
+			"typeName": "pointer",
+			"x": 703,
+			"y": 237,
+			"lastActivityTimestamp": 1735108889105,
+			"meta": {}
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {
+				"tldraw:font": "sans"
+			},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "nwse-resize",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 1222,
+				"h": 746
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:MtbN_wlCbZT_Vbk8vgguW"
+			],
+			"hoveredShapeId": "shape:MtbN_wlCbZT_Vbk8vgguW",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 53.99999999999994,
+			"y": 21,
+			"z": 1,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 408.00000000000006,
+			"y": 197.8046875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:MtbN_wlCbZT_Vbk8vgguW",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 232.625,
+				"text": "Amutha photography",
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.3087313072841293
+			},
+			"parentId": "page:page",
+			"index": "a79Lc",
+			"typeName": "shape"
+		}
+	]
+}
